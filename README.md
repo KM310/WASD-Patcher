@@ -41,5 +41,14 @@ This will create `wasd_patch.xdelta`.
 3. Click **Apply Patch**
 4. Done!
 
+### Powered by 
+
+[![DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/blob/master/graphics/icon128.png)](https://github.com/marco-calautti/DeltaPatcher/)
+[![UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool/blob/master/images/logo.png)](https://github.com/UnderminersTeam/UndertaleModTool/)
+[![XDelta](https://github.com/KM310/WASD-Patcher/blob/main/XDeltaCustomIcon128.png)](https://github.com/jmacd/xdelta/)
+
+
+
+
 
 
